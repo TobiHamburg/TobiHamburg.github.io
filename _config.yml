@@ -15,10 +15,8 @@ author: Tobias Böttcher
 
 navbar-links:
   About Me: "aboutus"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Products:
+    - Etsy: "moinholz.etsy.com"
 
 # --- Logo --- #
 
